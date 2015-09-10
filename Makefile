@@ -1,3 +1,3 @@
 test:
-	velocity test-app ./ --ci
+	velocity test-app --ci
 .PHONY: test
